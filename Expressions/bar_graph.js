@@ -48,7 +48,7 @@ heightNew = height*10;
 [value[0], heightNew]
 
 
-// ------------ Import ------------
+// ------------ IMPORT ------------
 
 // Get data (String) from the imported .json File and display as a text
 // The expression was set as Source Text at Text Layer / Text / Source Text 
