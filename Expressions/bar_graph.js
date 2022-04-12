@@ -43,7 +43,7 @@ heightNew = height*10;
 
 // Box Right
 eval("var data=" +footage("data.json").sourceText);
-height = data[0].E_Geo2_Teil;
+height = data[0].E_Geo3_Teil;
 heightNew = height*10;
 [value[0], heightNew]
 
@@ -93,6 +93,6 @@ heightNew = height*10;
 
 // Box Right
 eval("var data=" +footage("data.json").sourceText);
-height = data[0].I_Geo2_Teil;
+height = data[0].I_Geo3_Teil;
 heightNew = height*10;
 [value[0], heightNew]
