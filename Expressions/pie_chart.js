@@ -16,7 +16,7 @@ eval("var data=" +footage("data.json").sourceText);
 data[0].E_Gruppe3_de;
 
 
-// Animatte the Pie 
+// Animate the Pie 
 // The expression was set at Shape Layer / Contents / Trim Paths 1 / End 
 
 // Animation First Pie 
